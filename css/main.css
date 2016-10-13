@@ -12,6 +12,7 @@ html {
 body {
   margin: 0;
   text-align: center;
+  vertical-align: middle;
 }
 
 img {
@@ -38,14 +39,15 @@ h1 {
 p {
   max-width: 25em;
   margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
   padding-right: 2em;
+
 }
 
 a {
   display: inline-block;
   background-color: #f2f2f2;
   padding: .4em .5em;
-  margin-top: 1.5rem;
   border: 3px solid #333;
   border-radius: 5px;
   text-decoration: none;
