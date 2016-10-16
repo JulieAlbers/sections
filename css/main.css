@@ -59,7 +59,7 @@ p {
   color: #666;
 }
 
-.btn :hover {
+a .btn :hover {
   background-color: #333;
   color: #f2f2f2;
 }
